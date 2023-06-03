@@ -2,7 +2,7 @@
 - 💪 I'm a lawyer by profession...
 - 🤩 I love to code and watch anime!
 - 👀 I’m interested in food, movies, games and looking at cute animals in my free time! 😎
-- 🌱 I’m currently learning Typescript and Ionic 📚
+- 🌱 I’m currently working on a Sveltekit project with Typescript 📚
 - 💞️ I’m looking to collaborate on anything tech! 💻
 - 📫 You can reach me at nikhilgangai35@gmail.com
 - Check out https://caseclutch.in 
