@@ -1,11 +1,10 @@
 - 👋 Hi, I’m Nikhil!
-- 💪 I'm a lawyer by profession...
+- 💪 I'm a lawyer and a marketer by profession...
 - 🤩 I love to code and watch anime!
 - 👀 I’m interested in food, movies, games and looking at cute animals in my free time! 😎
-- 🌱 I’m currently working on a Sveltekit project with Typescript 📚
+- 🌱 I’m currently working on a Sveltekit project 📚
 - 💞️ I’m looking to collaborate on anything tech! 💻
-- 📫 You can reach me at nikhilgangai35@gmail.com
-- Check out https://caseclutch.in 
+- 📫 You can reach me at hello@nikhilgangai.com
 
 <!---
 regrettablemouse136/regrettablemouse136 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
